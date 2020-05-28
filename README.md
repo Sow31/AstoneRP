@@ -5,4 +5,4 @@ je lui ai laisser une chance mais comme vous le voyez il a leak la base :') Enjo
 
 Ps Bisous Lorenzo Rayzor
 
-[Tout est dans le server.cfg]
+[le dossier est dans un lien tout en bas duserver.cfg]
